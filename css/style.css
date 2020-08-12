@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #2dc997;
+  background: #2C1503;
   color: #fff;
 }
 
@@ -218,8 +218,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #2C1503;
+  border: 2px solid #2C1503;
 }
 
 /*--------------------------------------------------------------
@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #2dc997;
+  background-color: #fff;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -354,7 +354,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu ul li a:hover {
-  background: #2dc997;
+  background: #2C1503;
   color: #fff;
 }
 
@@ -442,11 +442,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #2dc997;
+  color: #2C1503;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #2dc997;
+  color: #2C1503;
 }
 
 #mobile-body-overly {
@@ -547,11 +547,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   flex-direction: column;
   text-align: center;
   border-radius: 50%;
-  border: 2px solid #2dc997;
+  border: 2px solid #2C1503;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #2dc997;
+  color: #2C1503;
   font-size: 24px;
 }
 
@@ -625,7 +625,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #2C1503;
 }
 
 #services .icon a {
@@ -639,15 +639,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .box:hover .icon {
   background: #fff;
-  border: 2px solid #2dc997;
+  border: 2px solid #2C1503;
 }
 
 #services .box:hover .icon i {
-  color: #2dc997;
+  color: #2C1503;
 }
 
 #services .box:hover .icon a {
-  color: #2dc997;
+  color: #2C1503;
 }
 
 #services .title {
@@ -746,7 +746,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #2dc997;
+  background: #2C1503;
   color: #fff;
 }
 
@@ -772,7 +772,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item .details {
   height: 50px;
-  background: #2dc997;
+  background: #2C1503;
   position: absolute;
   width: 100%;
   height: 50px;
@@ -872,7 +872,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #2C1503;
   float: left;
 }
 
